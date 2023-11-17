@@ -1,0 +1,23 @@
+.green{
+    color:green;
+}
+.red{
+    color: red;
+}
+.left-align{
+    text-align: left;
+    text-decoration: line-through;
+    text-shadow: 2opx chartreuse;
+}
+.right-align{
+    text-align: right;
+    text-decoration: underline;
+}
+.center{
+    text-align: center;
+    text-decoration: dotted;
+}
+.justify{
+    text-align: justify;
+    text-decoration: dashed;
+}

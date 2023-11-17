@@ -1,0 +1,15 @@
+a{
+text-decoration: none; /* Remove the default underline */
+      color: #3ca3ee;
+      padding: 16px 25px;
+    
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: #830a51;
+}
+a:active {
+    color: #ff0000;
+}
